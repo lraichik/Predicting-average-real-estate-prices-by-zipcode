@@ -33,7 +33,7 @@ Here are the 10 best by return on investment:
 
 <img src='Chicago_roi.png'>
 
-Here is what each column refers to:
+Here is what each column refers to:  
 **known_RMSE**: RMSE for the data that I have, checked against the predictions made.  
 **Forecast_2019_04**: A forecast for 12 months in the future  
 **confid_min and confid_max**: The confidence min and max  
