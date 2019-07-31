@@ -34,14 +34,14 @@ Here are the 10 best by return on investment:
 <img src='Chicago_roi.png'>
 
 Here is what each column refers to:
-**known_RMSE**: RMSE for the data that I have, checked against the predictions made.
-**Forecast_2019_04**: a forecast for 12 months in the future
-**confid_min and confid_max**: the confidence min and max
-**profit**: the dollar amount of profit based on the predicted value in 12 months
-**roi**: Return on investment percentage
-**2018_04_price**: the price at the buying time, which was the last date in the data
-**max_loss**: The 2018 price minus the min in 12 months, if this is a positive number then there is a loss, if this is a negative number then there is no predicted loss, even if sold for the lowest predicted price in 12 months
-**loi**: Loss on investment percentage, as above, if it is positive then there is a loss, if it is negative then there is no predicted loss, even if sold for the lowest predicted price in 12 months
+**known_RMSE**: RMSE for the data that I have, checked against the predictions made.  
+**Forecast_2019_04**: A forecast for 12 months in the future  
+**confid_min and confid_max**: The confidence min and max  
+**profit**: The dollar amount of profit based on the predicted value in 12 months.  
+**roi**: Return on investment percentage  
+**2018_04_price**: The price at the buying time, which was the last date in the data.  
+**max_loss**: The 2018 price minus the min in 12 months, if this is a positive number then there is a loss, if this is a negative number then there is no predicted loss, even if sold for the lowest predicted price in 12 months.  
+**loi**: Loss on investment percentage, as above, if it is positive then there is a loss, if it is negative then there is no predicted loss, even if sold for the lowest predicted price in 12 months  
 
 As can be seen the return on investment is low. Even in the best one, with a %9 return, the actual profit is low.  
 
