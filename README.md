@@ -23,7 +23,7 @@ Here is the graph for what I would consider is the best zipcode that I found:
 
 <img src='Chicago_best.png'>
 
-As can be seen, at the 12 month mark the growth is not by too much.
+As can be seen, at the 12 month mark the growth is not by too much and the lowest price is below the original buying price.
 
 Here are the 10 best zipcodes by profit:
 
