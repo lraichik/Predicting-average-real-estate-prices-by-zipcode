@@ -49,3 +49,5 @@ Due to this, and the fact that there are other costs invlolved as well beyond ju
 ## Future Work
 
 I would suggest looking into other areas to invest in.
+
+See my notebook on Kings County, NY [here](Brooklyn.ipynb), and the Readme on it [here](Brooklyn.md).
