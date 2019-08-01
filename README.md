@@ -53,7 +53,7 @@ For what it is worth, here is a picture showing what I would consider the top 4 
 
 ## Recommendations
 
-Due to this, and the fact that there are other costs invlolved as well beyond just the buying a selling price, I cannot recommend investing in the Chicago real estate market for selling houses in 12 months.  
+Due to this, and the fact that there are other costs involved as well beyond just the buying and selling prices, I cannot recommend investing in the Chicago real estate market for selling houses in 12 months.  
 
 
 ## Future Work
